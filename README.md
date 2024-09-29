@@ -13,5 +13,5 @@ python3.12 -m venv envname #创建名为envname的虚拟环境
 ```
 source envname/bin/activate #激活虚拟环境
 ```
-####退出虚拟环境
+#### 退出虚拟环境
 ```deactivate```
